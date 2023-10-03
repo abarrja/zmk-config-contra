@@ -52,7 +52,7 @@
             bindings = <
     &kp GRAVE &kp LS(N1) &kp EQUAL    &kp LS(MINUS) &kp MINUS     &kp LS(N2)   &kp N7    &kp N8      &kp N9    &kp KP_MULTIPLY &kp KP_DIVIDE &kp BSPC
     &kp TAB   &kp NUBS   &kp LS(APOS) &kp TILDE2    &kp LS(NUHS)  &kp NUHS     &kp N4    &kp N5      &kp N6    &kp KP_PLUS     &kp KP_MINUS  &kp LS(C)
-    &kp LSHFT &kp LS(N8) &kp LS(N9)   &kp KP_DIVIDE &kp RA(MINUS) &kp RA(RBKT) &kp N1    &kp N2      &kp N3    &kp N0          &kp DOT       &kp LS(0)
+    &kp LSHFT &kp LS(N8) &kp LS(N9)   &kp KP_DIVIDE &kp RA(MINUS) &kp RA(RBKT) &kp N1    &kp N2      &kp N3    &kp N0          &kp DOT       &kp LS(N0)
     &kp LCTRL &kp GRAVE  &kp RA(SQT)  &kp RA(Q)     &mo NUM_MODS  &kp SPACE    &kp ENTER &mo BT_CTRL &kp LEFT  &kp RIGHT       &kp UP        &kp DOWN
             >;
         };
