@@ -50,10 +50,10 @@
 */
         num_mods {
             bindings = <
-    &kp GRAVE &kp LS(N1) &kp EQUAL    &kp UNDER    &kp MINUS     &kp LS(N2)   &kp N7    &kp N8      &kp N9    &kp KP_MULTIPLY &kp KP_DIVIDE &kp BSPC
-    &kp TAB   &kp NUBS   &kp LA(NUHS) &kp LA(APOS) &kp NUHS      &kp APOS     &kp N4    &kp N5      &kp N6    &kp KP_PLUS     &kp KP_MINUS  &kp LS(C)
-    &kp LSHFT &kp LS(N8) &kp LS(N9)   &kp EQUAL    &kp RA(MINUS) &kp RA(N2)   &kp N1    &kp N2      &kp N3    &kp N0          &kp DOT       &kp KP_EQUAL
-    &kp LCTRL &kp GRAVE  &kp RA(SQT)  &kp RA(N2)   &mo NUM_MODS  &kp SPACE    &kp ENTER &mo BT_CTRL &kp LEFT  &kp RIGHT       &kp UP        &kp DOWN
+    &kp GRAVE &kp LS(N1) &kp EQUAL    &kp LS(MINUS) &kp MINUS     &kp LS(N2)   &kp N7    &kp N8      &kp N9    &kp KP_MULTIPLY &kp KP_DIVIDE &kp BSPC
+    &kp TAB   &kp NUBS   &kp LS(NUHS) &kp LS(APOS)  &kp NUHS      &kp APOS     &kp N4    &kp N5      &kp N6    &kp KP_PLUS     &kp KP_MINUS  &kp LS(C)
+    &kp LSHFT &kp LS(N8) &kp LS(N9)   &kp SLASH     &kp RA(MINUS) &kp RA(RBKT) &kp N1    &kp N2      &kp N3    &kp N0          &kp DOT       &kp KP_EQUAL_AS400
+    &kp LCTRL &kp GRAVE  &kp RA(SQT)  &kp RA(N2)    &mo NUM_MODS  &kp SPACE    &kp ENTER &mo BT_CTRL &kp LEFT  &kp RIGHT       &kp UP        &kp DOWN
             >;
         };
 /* Default
